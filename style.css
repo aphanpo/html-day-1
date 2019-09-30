@@ -34,23 +34,26 @@ section {
 }
 
 p {
-    width: 1000px;
-    border: 15px solid blue;
+    width: 1022xpx;
+    border: 5px solid blue;
     padding: 15px;
     margin: 15px;
+    text-align: center;
 }
 
-ol {
+aside {
     width: 1000px;
     border: 15px dotted white;
     padding: 15px;
     margin: 15px;
     text-align: center;
 }
+
 img{
     text-align: center;
     margin-left: 15px;
 }
+
 figcaption{
     margin-left: 16px;
 }
