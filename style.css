@@ -1,0 +1,61 @@
+body {
+    background-color: lavender;
+}
+#container{
+    width: 1088px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: green;
+    font-family: cursive;
+}
+
+h2 {
+    text-align: left;
+    padding-right: 350px;
+}
+
+.topic {
+    margin: 15px;
+    border: 5px dashed grey;
+    text-align: center;
+    color: purple;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+section {
+    text-align: center;
+}
+
+p {
+    width: 1000px;
+    border: 15px solid blue;
+    padding: 15px;
+    margin: 15px;
+}
+
+ol {
+    width: 1000px;
+    border: 15px dotted white;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+img{
+    text-align: center;
+    margin-left: 15px;
+}
+figcaption{
+    margin-left: 16px;
+}
+footer {
+    color: red;
+    text-align: center;
+    font-family: arial;
+}
